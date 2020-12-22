@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Hero Image - A Happy Mack!" src="./hero.png" width="500">
+
 
 🔭  I’m currently looking for a <strong>full-time position</strong> <br/>
 🌱  I’m avidly developing my skills as a <strong>React developer</strong> <br/>
