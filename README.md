@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-
-
-🔭  I’m currently looking for a <strong>full-time position</strong> <br/>
-🌱  I’m avidly developing my skills as a <strong>frontend developer</strong> <br/>
+🔭  Looking for a <strong>full-time position</strong> in frontend development<br/>
+💻  Enjoy developing intuitive experiences and currently using React<br/>
+🌱  Practicing <strong>data structures and algorithms</strong> in Python and Swift<br/>
 📫  Reach out to me on [LinkedIn](https://www.linkedin.com/in/mackenzieraeclark/) <br/>
 
 <br/>
