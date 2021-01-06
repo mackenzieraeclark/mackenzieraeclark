@@ -6,4 +6,4 @@
 📫  Reach out to me on [LinkedIn](https://www.linkedin.com/in/mackenzieraeclark/) <br/>
 
 <br/>
-Check out some of my highlited projects below!
+Check out some of my highlited projects below
