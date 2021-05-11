@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱  Passionate about <strong>human-centered design</strong>.<br/>
+💻  Designing and building user interfaces at <strong>Quivers</strong>.
 
-📫  Reach out to me on [LinkedIn.](https://www.linkedin.com/in/mackenzieraeclark/) <br/>
+📫  Connect with me on [LinkedIn.](https://www.linkedin.com/in/mackenzieraeclark/) <br/>
 <br/>
